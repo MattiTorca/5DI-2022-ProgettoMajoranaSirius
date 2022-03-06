@@ -21,8 +21,9 @@ Il progetto dovrà comprendere almeno:
 
 I dati verranno mostrati anche con l’ausilio di grafici, le immagini seguenti, fornite da Sirius, costituiscono un esempio dell’interfaccia attesa:
 
-
-
+![Elenco Parchi](10-materiali/elenco-parchi.png)
+![Elenco Pale Eoliche](10-materiali/elenco-pale.png)
+![Dettaglio Pala Eolica](10-materiali/dettagli-pala.png)
 
 Le informazioni verranno lette dalla porzione back end attraverso una serie di URI da chiamare con una HTTP Request, la risposta a tali chiamate sarà fornita in formato JSON. 
 
@@ -31,6 +32,7 @@ Per esempio la Application Programming Interface (API) REST potrebbe fornire la 
 https://localhost:23456/elenco-parchi
 
 che potrebbe rispondere con:
+
     [
       {
         “nome”:”SSE Prizzi”,
@@ -62,4 +64,5 @@ Inoltre, si richiede di:
 - Il progetto del database dovrà comprendere un Diagramma E-R esplicativo della struttura dati scelta e la descrizione delle ipotesi aggiuntive che si ritiene necessario addurre.
 Le seguenti immagini illustrano parzialmente il documento Excel fornito:
 
-
+![Elenco Excel Parchi](10-materiali/excel-elenco-parchi.png)
+![Elenco Excel Pale Eoliche](10-materiali/excel-elenco-pale.png)
