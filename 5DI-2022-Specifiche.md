@@ -64,5 +64,5 @@ Inoltre, si richiede di:
 - Il progetto del database dovrà comprendere un Diagramma E-R esplicativo della struttura dati scelta e la descrizione delle ipotesi aggiuntive che si ritiene necessario addurre.
 Le seguenti immagini illustrano parzialmente il documento Excel fornito:
 
-![Elenco Excel Parchi](10-materiali/excel-elenco-parchi.png)
 ![Elenco Excel Pale Eoliche](10-materiali/excel-elenco-pale.png)
+![Dettaglio Excel Pala](10-materiali/excel-dettaglio-pale.png)
